@@ -1,7 +1,6 @@
 # README
 
-This is my solution to the Codewars Kata [Calculating Month Over Month Percentage Growth]
-(https://www.codewars.com/kata/calculating-month-over-month-percentage-growth-rate/train/sql)
+This is my solution to the Codewars Kata [Calculating Month Over Month Percentage Growth](https://www.codewars.com/kata/calculating-month-over-month-percentage-growth-rate/train/sql)
 
 The challenge is to produce a query that returns:
 
