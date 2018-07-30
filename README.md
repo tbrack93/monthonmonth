@@ -30,6 +30,10 @@ been implemented using || rather than CONCAT_WS. However for a true reflection o
 solutions I have not changed this (or my other kata solutions) based on solutions
 provided on the codewars site.
 
+For the percentage this is cast as a VARCHAR (to allow for adding the percetage sign).
+I have set this at a length of 6, on the assumption that monthly growth will not exceed
+9999.9%
+
 It is also slightly confusing having the month column called date as in my solution
 means it reads 'AS date) AS date' in the first line:
 
